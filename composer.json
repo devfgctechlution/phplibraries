@@ -1,0 +1,19 @@
+{
+    "name": "fgct/phpimage",
+    "description": "Library simple php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fgct\\Phpimage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hoang Bien",
+            "email": "hoangbien264@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
